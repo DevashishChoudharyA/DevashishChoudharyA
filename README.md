@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Devashish Choudhary</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
-- 🔭 I’m currently working on **Deep Learning**
+- 🔭 I’m currently working on **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://devashishchoudharya.github.io/Devashish-Portfolio/](https://devashishchoudharya.github.io/Devashish-Portfolio/)
-
-- 📫 How to reach me **choudharydev836@gmail.com**
+- 📫 How to reach me **devashishchaudhary2908@gmail.com**
 
 - ⚡ Fun fact **I am a national level Speed Skating player.**
 
